@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d61d2339-5384-436d-a1d8-cf096192a429" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/testNG-dersleri/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/muhar/OneDrive/Belgeler/GitHub/TestNG/testNG-dersleri"
+    "last_opened_file_path": "C:/Users/muhar/OneDrive/Belgeler/GitHub/TestNG"
   }
 }]]></component>
   <component name="RecentsManager">
