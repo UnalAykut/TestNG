@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d61d2339-5384-436d-a1d8-cf096192a429" name="Changes" comment="" />
+    <list default="true" id="d61d2339-5384-436d-a1d8-cf096192a429" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/testNG-dersleri/.gitattributes" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +24,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/muhar/OneDrive/Belgeler/GitHub/TestNG"
+    "last_opened_file_path": "C:/Users/muhar/OneDrive/Belgeler/GitHub/TestNG/testNG-dersleri"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\muhar\OneDrive\Belgeler\GitHub\TestNG\testNG-dersleri" />
       <recent name="C:\Users\muhar\OneDrive\Belgeler\GitHub\TestNG" />
     </key>
   </component>
